@@ -14,6 +14,10 @@ In Space Shooter, the player controls a ship. The player can move the ship up an
 - **Game Over Condition**: Lose a ship if hit by an alien or if an alien reaches the screen's left border. The game ends when all three ships are lost.
 - **Sprite-based Graphics**: Uses Pygame sprites for efficient and smooth animations.
 
+![Space Shooter](Screenshot1.png)
+
+![Space Shooter](Screenshot1.png)
+
 ## Prerequisites
 
 Make sure you have the following installed:
@@ -25,3 +29,4 @@ You can install the required library using pip:
 
 ```bash
 pip install pygame
+
