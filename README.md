@@ -16,7 +16,7 @@ In Space Shooter, the player controls a ship. The player can move the ship up an
 
 ![Space Shooter](Screenshot1.png)
 
-![Space Shooter](Screenshot1.png)
+![Space Shooter](Screenshot2.png)
 
 ## Prerequisites
 
